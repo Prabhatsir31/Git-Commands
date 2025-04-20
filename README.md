@@ -63,3 +63,18 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Check the links
+<a href="https://git-scm.com/docs">git</a>
+<a href="https://github.com/git/git/tree/master">github</a>
+<a href="https://www.w3schools.com/GIT/">w3schools</a>
+<a href="https://www.geeksforgeeks.org/git-tutorial/">geeksforgeeks</a>
+<a href="https://www.atlassian.com/git/glossary#commands">ATLANSSIAN</a>
+
+
+
+
+
+
+
+
